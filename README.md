@@ -1,3 +1,6 @@
+![platforms](https://img.shields.io/badge/Platform-Android-blue?style=plastic)  ![platforms](https://img.shields.io/badge/SDK%20Version-29-green?style=plastic&logo=android)  ![platforms](https://img.shields.io/badge/Migrate%20AndroidX-Completed-informational?style=plastic)
+
+
 # Android_Me
 App that lets you style your own Android! This uses Fragments to create a flexible and responsive UI.
 
