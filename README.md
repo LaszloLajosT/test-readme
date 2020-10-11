@@ -10,7 +10,9 @@ This is a exercise repository for the AndroidMe example app which is part of the
 
 ## Original Udacity Readme table content:
 - [How to use this repo while taking the course](#how-to-use-this-repo-while-taking-the-course)
-- [Build Process](#build-process)
+- [Working with the Course Code](#working-with-the-course-code)
+- [## Report Issues](#report-issues)
+
 
 
 ## Motivation
