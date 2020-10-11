@@ -18,9 +18,9 @@ This is a exercise repository for the AndroidMe example app which is part of the
 
 ## Motivation
 
-Udacity course code is outdated and many students (include me) had hard time to complete the course in reasonable time. I spent many hours just update the starter codes which took away my excitement.
-I decided to update the repository so the future students has slightly easier job to do. 
-I can't guarantee that my repo is up to date all the time but I can do my best with your help. So feel free to constribute if something is outdated. ( Use issues or pull request).
+Udacity course code is **outdated** and many students (include me) had hard time to complete the course in reasonable time. I spent many hours just update the starter codes which took away my excitement.
+**I decided to update the repository** so the future **students** has slightly easier job to do. 
+I **can't guarantee** that my repo is up to date all the time but I can do my best with your **help**. So feel free to **constribute** if something is outdated. ( Use issues or pull request).
 
 ## Installation
 Clone this repository and import into **Android Studio**
